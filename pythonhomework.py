@@ -17,7 +17,7 @@ elif average < 80 and average >= 75:
 elif average < 75 and average >= 70:
     letterGrade = "D"
 else:
-    letter = "F"
+    letterGrade = "F"
 
 print("Your average is", average)
 print("You have a(n)", letterGrade)
